@@ -139,15 +139,3 @@ not access the originally intended data, but instead, the changes your plugin ma
 3. Consider publishing documentation for your plugin if you plan to release publicly. Documentation should show the user how to use ```Knwl.get()``` to initiate the plugin, e.g. ```knwl.get('dates')```.
 
 4. Make something awesome.
-
-## Publishing
-
-If you intend on releasing your parser plugin publicly, the best and most approachable way is to create a GitHub Repository for the plugin.
-
-## Further Help
-
- It's recommended that anyone developing plugins for Knwl.js look at preexisting plugins first for inspiration.
-
-If you need more granular assistance in developing your plugin, or this documentation doesn't make any sense, no problem! You can reach me personally at anytime here: moore.h.ben@gmail.com.
-
-There is also a **Google+ Community**, where you can discuss plugins and more: https://plus.google.com/communities/108874785204246812675.
