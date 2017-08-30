@@ -1,16 +1,18 @@
 {
-  "name": "knwl.js",
-  "description": "Parse through text for specific information.",
+  "name": "Core knwl.js",
+  "description": "It's a fork from knwl.js. It comes without knwl.js default and experimental plugins. Parse through text for specific information. It's just a core, it does nothing until you plug your plugins on the knwl instance.",
   "version": "1.0.2",
   "keywords": [
     "data",
     "tagging",
     "parsing",
-    "language"
+    "language",
+    "nlp",
+    "natural language processing"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/loadfive/Knwl.js.git"
+    "url": "https://github.com/morgaan/Core-Knwl.js"
   },
   "main": "knwl.js",
   "author": {
