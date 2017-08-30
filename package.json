@@ -1,7 +1,7 @@
 {
-  "name": "Core knwl.js",
+  "name": "core-knwl.js",
   "description": "It's a fork from knwl.js. It comes without knwl.js default and experimental plugins. Parse through text for specific information. It's just a core, it does nothing until you plug your plugins on the knwl instance.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "data",
     "tagging",
