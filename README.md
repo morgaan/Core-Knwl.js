@@ -19,7 +19,7 @@ Installation instructions are specific to whether you want to run Knwl.js in the
 #### Install using ```npm```:
 
 ```console
-npm install knwl.js
+npm install core-knwl.js
 ```
 
 1. Load the ```knwl``` module using ```require()``` and create a new Instance.
